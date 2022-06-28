@@ -1,2 +1,1 @@
-# study_git
-git 및 github 공부용
+# 카운팅 쓰타아아알 저하늘의 퍼어어얼
